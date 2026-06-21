@@ -1,0 +1,37 @@
+this is a mark down!
+
+# a subtitle 
+
+## another subtitle 
+
+*is this italics*
+
+__is this bold?__ 
+
+1. one
+1. two 
+1. three 
+1. four 
+
+## picture 
+
+[this is an intro to Github](https://sparta-academy.teachable.com/courses/2012786/lectures/45408382)
+
+
+[] this is a to-do list 
+
+[x] this is complete 
+
+| name | class|
+| ----| ----|
+|hasanah | 7 |
+| person 2| 8| 
+
+``` mermaid
+flowchart LR
+    A["STEP 1"]
+    B["STEP 2"]
+    A --> B --> A
+    C["STEP 3"]
+    B --> C
+```

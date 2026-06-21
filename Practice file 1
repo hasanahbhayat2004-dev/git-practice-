@@ -1,0 +1,18 @@
+{
+  "active": false,
+  "title": "Tech 101",
+  "subject": "Java",
+  "trainees": [
+    {
+      "firstname": "Jerry",
+      "lastname": "Frazier",
+      "spartano": 100
+    },
+    {
+      "firstname": "Cheryl",
+      "lastname": "Cartwright",
+      "spartano": 101
+    }
+  ]
+}
+
