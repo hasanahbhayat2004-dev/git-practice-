@@ -16,3 +16,8 @@ from functions import find_longest_word
 
 def test_find_longest_word():
     assert find_longest_word("The quick brown fox") == "quick"
+
+from functions import filter_even_numbers
+def test_filter_even_numbers():
+    assert filter_even_numbers([1, 2, 3, 4, 5, 6]) == [2, 4, 6]
+

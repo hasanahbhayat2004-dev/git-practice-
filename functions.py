@@ -9,3 +9,8 @@ def find_longest_word(sentence):
     words = sentence.split()
     return max(words, key=len)
 
+def filter_even_numbers(numbers):
+    return []
+def filter_even_numbers(numbers):
+    return [num for num in numbers if num % 2 == 0]
+
