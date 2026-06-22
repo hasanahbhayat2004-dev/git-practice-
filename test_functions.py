@@ -21,3 +21,9 @@ from functions import filter_even_numbers
 def test_filter_even_numbers():
     assert filter_even_numbers([1, 2, 3, 4, 5, 6]) == [2, 4, 6]
 
+from functions import reverse_string
+def test_reverse_string():
+    assert reverse_string("hello") == "olleh"
+
+def reverse_string(text):
+    return text[::-1]

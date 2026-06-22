@@ -11,6 +11,10 @@ def find_longest_word(sentence):
 
 def filter_even_numbers(numbers):
     return []
+
 def filter_even_numbers(numbers):
     return [num for num in numbers if num % 2 == 0]
+
+def reverse_string(test):
+    return ""
 
